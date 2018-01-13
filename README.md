@@ -1,2 +1,2 @@
-# obs-coutndown
-Fully functionnal script that create coutdown timers for OBS.
+# Countdown script for OBS (Open Broadcaster Software)
+Fully functionnal script that create a coutdown timer for OBS.
